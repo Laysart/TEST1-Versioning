@@ -1,11 +1,3 @@
 # TEST1-Versioning
 
-
-
-                  /\
-                /    \
-              /        \
-             ____________
-                 |__|
-                 
-
+Nouvelle version
